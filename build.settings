@@ -1,0 +1,8 @@
+settings =
+{
+    win32 =
+    {
+        singleInstance = false,
+				defaultMode = "fullscreen",
+    }
+}
